@@ -1,0 +1,24 @@
+/* Style for web-site */
+
+body {
+    font-family: monospace;
+    color:white;
+    background-color: rgb(47, 47, 47);
+}
+
+a {
+    font-family: cursive;
+    color: white;
+    cursor: copy;
+}
+
+.HowAdd {
+    cursor: help;
+}
+
+.back {
+    cursor: move;
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
